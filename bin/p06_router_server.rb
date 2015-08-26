@@ -1,6 +1,7 @@
 require 'webrick'
 require_relative '../lib/phase6/controller_base'
 require_relative '../lib/phase6/router'
+require 'byebug'
 
 
 # http://www.ruby-doc.org/stdlib-2.0/libdoc/webrick/rdoc/WEBrick.html
